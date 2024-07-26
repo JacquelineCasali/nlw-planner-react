@@ -1,14 +1,16 @@
-## Projeto Api de Pagamento
-
+## Projeto Journey
 O projeto Journey tem como objetivo ajudar o usuário a organizar viagens à trabalho ou lazer. O usuário pode criar uma viagem com nome, data de início e fim. Dentro da viagem o usuário pode planejar sua viagem adicionando atividades para realizar em cada dia.
 
 
 Esse projeto é o desenvolvimento do Front end com React .
 
 ## Imagem do Projeto
-<!-- ![Video_2024-03-19_143950](./Video_2024-03-19_143950.gif) -->
-![planner](https://github.com/user-attachments/assets/a3a4e940-8520-471d-8036-2d8a6ba505da)
-![trip](https://github.com/user-attachments/assets/f00f77ff-467f-42d1-9e43-9dec07480157)
+
+![2024-07-26_112758](https://github.com/user-attachments/assets/eae0172b-97bf-4a17-8c18-22f239bf3917) 
+![2024-07-26_112739](https://github.com/user-attachments/assets/aa12ccb9-e003-4293-bcd7-9938430e68a7)
+
+![2024-07-26_112810](https://github.com/user-attachments/assets/65ca5042-d582-4d20-8845-0b8e8531170d)
+![2024-07-26_113129](https://github.com/user-attachments/assets/5b683026-eae6-4634-aace-f1805b3ac1b3)
 
 ## ⚙️ Funcionalidades
 
@@ -20,36 +22,21 @@ Esse projeto é o desenvolvimento do Front end com React .
 6. Novos participantes podem ser convidados dentro da página do evento através do e-mail e assim devem passar pelo fluxo de confirmação como qualquer outro convidado
 
 ## 🛠 Tecnologias utilizadas
-
-- **[Java 17]**
-- **[Spring Boot 3]**
-- **[Maven]**
-- **[Spring Web]**
-- **[Flyway]**
-- **[Dev Tools]**
-- **[Lombok]**
-- **[JPA]**
-- **[MySQL]**
-- **[Xampp]**
+- **[React]**
+- **[tailwind]**
+- **[typescript]**
+- **[vite]**
+- **[date-fns]**
 
 ## Para Clonar o projeto
-https://github.com/JacquelineCasali/nlw-planner-Java.git
+https://github.com/JacquelineCasali/nlw-planner-react
 
 
-# 📁 Acessar a aplicação
+## Rodar o Projeto no FrontEnd 
 
-##### Enquanto o servidor está ligado, acesse o navegador e entre no endereço abaixo
-http://localhost:8080/swagger-ui/index.html
-
-
-## 🚀 Linguagens e Ferramentas:
-
-<div style="display: inline-block" align="left">
- <img align="center" alt="Express" height="70" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-
- <img align="center" alt="Rafa-NodeJS" height="50" width="60"  src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000"/>
-<img align="center" alt="Rafa-NodeJS" height="70" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-</div>
+-  cd frontEnd
+-  npm install
+-  npm run dev
 
 
 ## 📝 Licença
