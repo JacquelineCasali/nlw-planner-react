@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+*{
+  min-width: 0;
+}
+input{
+  color-scheme:dark;
+
+}
+
+.rdp-range_middle .rdp-day_button {
+  /* color: blue; */
+  background-color: blue;
+}
+
+body::-webkit-scrollbar {
+  width: 12px;                /* largura da barra de rolagem */
+  background-color: #e5e7eb;
+}
+
+body::-webkit-scrollbar-track {
+  background: #e5e7eb;           /* cor de fundo da barra de rolagem */
+}
+
+body::-webkit-scrollbar-thumb {
+  background-color: #4ade80;  /* cor do scroll (thumb) da barra de rolagem */
+  border-radius: 20px;        /* arredondar o scroll (thumb) */
+  border: 3px solid #bbf7d0;     /* criar um espaco em volta do scroll */
+}
+
+
+
